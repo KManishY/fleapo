@@ -85,7 +85,7 @@ nav {
   border: #89d3d1;
 }
 #banner > img {
-  width: 100%;
+  max-width: 1440px;
   height: 628px;
 }
 
